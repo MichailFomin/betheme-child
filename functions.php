@@ -58,3 +58,5 @@ function mfnch_textdomain() {
 function test_for_Git() {
 
 }
+
+// тест новой ветки
