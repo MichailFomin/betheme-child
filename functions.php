@@ -54,3 +54,7 @@ function mfnch_textdomain() {
  * if you want to override theme functions use the example below
  * --------------------------------------------------------------------------- */
 // require_once( get_stylesheet_directory() .'/includes/content-portfolio.php' );
+
+function test_for_Git() {
+
+}
